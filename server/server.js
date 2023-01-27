@@ -51,6 +51,6 @@ app.post('/',async (req,res)=>{
 
 app.listen(Port,()=>{
     console.log(`Server is running on port ${Port}`);
-})
+});
 
 
